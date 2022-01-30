@@ -1,0 +1,118 @@
+th{
+    margin: 1px;
+    padding: 1px;
+    text-align: left;
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.15);
+}
+
+td{
+    margin: 1px;
+    padding: 1px;
+    text-align: left;
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.15);
+}
+
+table {
+    margin: 1px;
+    padding: 1px;
+    border: 1px solid black !important;
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.75);
+}
+
+.tableRelatorio{
+    
+    margin: 0px !important;
+    padding: 0px !important;
+    padding-right: 0,5px !important;
+    padding-left: 2px !important;
+}
+.thRelatorio{
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.tdJustificativa{
+    background-color:rgb(255, 235, 235) !important;
+    padding-left: 1px !important;
+    
+}
+
+.tdJustificativaRel{
+    background-color:rgb(255, 235, 235) !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    text-align: center; border: 1px solid black !important; font-size: 8px;
+    padding-left: 2px !important;
+}
+
+body{
+    background-color:#ffffff !important;
+    margin: 2px;
+}
+
+input, select{
+    background-color:rgb(214, 240, 245) !important;
+}
+
+.spanTitulo{
+    /*color: rgb(13, 4, 117);*/
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.loginHeader{
+    float: left;
+    margin-left: 2%;
+    /*color: rgb(13, 4, 117);*/
+    text-align: left !important;
+    font-size: medium;
+    font-weight:normal;
+}
+
+header, footer{
+    text-align: center;
+    background-color: #6398fa !important;
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.75);
+    height: 10%;
+    width: 100%;
+    
+}
+
+select{
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.75);
+}
+
+
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+.table{
+    box-shadow: inset 0px 0px 4px 1px rgba(42, 9, 187, 0.75);
+    margin-bottom: 200px;
+}
+
+
+
+button{
+    margin: 2px;
+    border-radius: 10% !important;
+    box-shadow: inset 0px 0px 4px 1px rgba(41, 0, 204, 0.75) !important;
+}
+
+
+.reuniaoFinalizada {
+    background-color:rgb(255, 235, 235) !important;
+}
+
